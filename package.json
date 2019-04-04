@@ -1,6 +1,6 @@
 {
   "name": "react-bootbox",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "A Bootbox component tailored for react.js",
   "main": "build/index.js",
   "license": "ISC",
